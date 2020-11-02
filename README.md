@@ -7,6 +7,6 @@ The point of the application is to provide exploratory analysis on  to create a 
 * Jupyter Notebook
 
 ## Results
-
+The results of the analysis show some fairly distinct ups and downs in both the urban and Suburban city types.  Conversely, the fares in rural areas are more constant.  
 ## Summary
 
