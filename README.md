@@ -16,14 +16,9 @@ Some interesting information was found during the analysis on totals per city ty
 * Sububan 625
 
 **Total Drivers:**
-* Ruran 537
+* Rural 537
 * Urban 8570
 * Suburban 59602
-
-**Total Fares:**
-* Rural $4327.93
-* Urban $39854.38	
-* Suburban $19356.33	
 
 **Average Fare per ride**
 * Rural $34.623440
