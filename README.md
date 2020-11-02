@@ -35,7 +35,7 @@ Some interesting information was found during the analysis on totals per city ty
 * Suburban $2.258615
 * Urban $0.668675
 
-**Total Fare by City Type:
+**Total Fare by City Type:**
 * Rural $4327.93	
 * Suburban $19356.33	
 * Urban $39854.38
