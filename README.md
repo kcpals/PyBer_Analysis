@@ -7,7 +7,7 @@ The point of the application is to provide exploratory analysis on the ride-shar
 * Jupyter Notebook
 
 ## Results
-The results of the analysis show some fairly distinct ups and downs in both the urban and Suburban city types.  Conversely, the fares in rural areas are more constant. 
+The results of the analysis show some fairly distinct ups and downs in both the Urban and Suburban city types.  Conversely, the fares in Rural areas are more constant. 
 Some interesting information was found during the analysis on totals per city type.  They are as follows:
 
 **Total Rides:**
@@ -39,5 +39,5 @@ I am including a visual of Total Fare by City Type to better illustrate the diff
 ![alt text] https://github.com/kcpals/PyBer_Analysis/blob/main/Challenge_fare_summary.png
 
 ## Summary
-In summary, there are certaily some dissparities in the data.  First, average fare's per driver are much higher in rural areas than in urban areas but total fares in rural areas are much lower.  Additionally there are several less drivers in rural areas.  Adding additional drivers to these areas could be one way to add to the overall rides.    
+In summary, there are certaily some dissparities in the data.  First, average fare's per driver are much higher in rural areas than in urban areas but total fares in rural areas are much lower.  Additionally there are several less drivers in rural areas.  Adding additional drivers to these areas could be one way to add to the overall rides.  Since we see the average fare by drivers is significantly lower in Urban areas, one recommendation would be to slightly increase fare costs in those areas to make up for shorter rides and a larger quantity of drivers.  A slightly higher rate in an urban area would likely not be seen as excessive due to a larger population that typically has access to additional income and demands quick, convenient ride availability.    
 
