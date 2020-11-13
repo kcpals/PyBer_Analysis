@@ -35,6 +35,9 @@ Some interesting information was found during the analysis on totals per city ty
 * Suburban $19356.33	
 * Urban $39854.38
 
+I am including a visual of Total Fare by City Type to better illustrate the differences by city type
+![alt text] https://github.com/kcpals/PyBer_Analysis/blob/main/Challenge_fare_summary.png
+
 ## Summary
 In summary, there are certaily some dissparities in the data.  First, average fare's per driver are much higher in rural areas than in urban areas but total fares in rural areas are much lower.  Additionally there are several less drivers in rural areas.  Adding additional drivers to these areas could be one way to add to the overall rides.  
 
