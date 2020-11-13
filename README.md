@@ -36,6 +36,7 @@ Some interesting information was found during the analysis on totals per city ty
 * Urban $39854.38
 
 I am including a visual of Total Fare by City Type to better illustrate the differences by city type
+
 ![alt text] https://github.com/kcpals/PyBer_Analysis/blob/main/Challenge_fare_summary.png
 
 ## Summary
